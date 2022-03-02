@@ -1,5 +1,5 @@
 .primary{
-    color: rgb(3, 192, 192);
+    color: rgb(11, 129, 129);
 }
 
 .container{
@@ -38,4 +38,42 @@
 .contact-me>ul li{
     display: inline;
     padding: 0 5px;
+}
+
+.name{
+    color: rgb(11, 129, 129);
+    font-size: 20px;
+}
+.timeline {
+    color: #AAA;
+}
+
+.title {
+    font-size: 24px;
+}
+
+.eduacation{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.logo img{
+    width: 30%;
+}
+.detail ul{
+    list-style: none;
+    padding: 5px;
+    margin-left:-150px ;
+    margin-top: 5px;
+}
+.school{
+    font-size: 20px;
+}
+.c img{
+    width: 35%;
+}
+.college ul{
+    list-style: none;
+    margin-left: -150px;
+    margin-top: 8px;
 }
